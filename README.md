@@ -27,5 +27,7 @@ Total Customers is 26.8K
 Daily Revenue Growth has been 5.47 M and Daily Customer Growth has been 148
 
 
-#
+# Month Over Month Changes in Rvenue and Customers
+![KPI](https://github.com/user-attachments/assets/e02c461b-273d-48b4-b3d4-20f218954e9f)
+
 
